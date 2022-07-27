@@ -15,8 +15,8 @@
 *The input event is fired every time the value of the element changes. This is unlike the change event, which only fires when the value is committed, such as by pressing the enter key, selecting a value from a list of options, and the like.* <br>
 
 ## [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
-## Why would we use a ternary operator?
-*If there an IF statement.* 
+### Why would we use a ternary operator?
+*If there was an IF statement.* 
 
 ### Rewrite the following statement using a ternary statement: 🥇
 
