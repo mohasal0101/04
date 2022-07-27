@@ -28,8 +28,8 @@
 
 ### *answer:*
 **(X===Y) <br>
-console.log(true) : console.log(false)<br>**
+console.log(true) : console.log(false)<br><br>**
 
 ### Bookmark and Review
-[React Bootstrap - Forms](https://react-bootstrap.github.io/forms/overview/)
-[React Docs - conditional renderinggg](https://reactjs.org/docs/conditional-rendering.html)
+[React Bootstrap - Forms](https://react-bootstrap.github.io/forms/overview/) <br><br>
+[React Docs - conditional rendering](https://reactjs.org/docs/conditional-rendering.html)<br>
